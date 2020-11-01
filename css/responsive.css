@@ -1,0 +1,454 @@
+
+@media(max-width: 1249.98px){
+/*----------- Slider ------------- */
+    .slider-content h2{
+    font-size: 40px;
+    margin-top: -20px;
+    margin-bottom: 5px;
+    }
+    .para1{
+        font-size: 20px;
+    }
+    .our-btn{
+        padding: 10px 25px;
+        border-radius: 20px;
+    }
+    .slider-btn .our-btn{
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+/*--------- We Do --------------- */
+    .do-img img{
+        max-width: 110%;
+    }
+}
+
+@media(max-width: 1199.98px){ 
+/* -------- Banner Button--------- */
+    .banner-content .our-btn {
+        font-size: 15px;
+        padding: 20px 70px;
+    }
+    /* ---------- Top Arrow --------- */
+    .top-arrow{
+        width: 50px;
+        right: 70px;
+    }
+}
+
+@media(max-width: 1179.98px){
+    /* ----------About-------------- */
+    .about{
+        margin-top: -70px;
+    }
+    
+    .about-content{
+        padding-top: 70px;
+    }
+}
+
+@media(max-width: 1023.98px){
+    .about{
+        margin-top: 30px;
+    }
+    .about-content{
+        padding-top: 0px;
+    }
+    /* ======= Slider ============ */
+    .slider-content{
+        width: auto;
+    }
+    .slider-content h2{
+        font-size: 25px;
+        margin-top: -18px;
+        margin-bottom: 5px;
+    }
+    .para1{
+        font-size: 15px;
+    }
+    .para2{
+        font-size: 12px;
+        padding-bottom: 40px;
+    }
+
+    .our-btn{
+        padding: 10px 25px;
+        border-radius: 20px;
+    }
+    .slider-btn .our-btn{
+        margin-left: 10px;
+        margin-right: 10px;
+        padding: 5px 15px;
+        font-size: 12px;
+    }
+
+    /* ---------- Tab Area ------------ */
+    ul.our-nav-item li a {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .our-tab-content {
+        padding-top: 50px;
+    }
+    /* --------- Brand --------------- */
+    .brand {
+        padding: 40px 0;
+    }
+    /* ---------- Top Arrow --------- */
+    .top-arrow{
+        right: 45px;
+    }
+}
+
+
+@media(max-width: 991.98px){
+    .menu-area{
+        height: fit-content;
+        text-align: center;
+    }
+    .fixed .menu-area{
+        height: fit-content;
+    }
+
+    /* --------------------------- */
+    .search-box{
+        width: fit-content;
+        padding: 5px 0;
+        padding-left: 5px ;
+        height: 30px;
+    }
+    /* ----------------------------- */
+
+    /* ---------- Slider ----------- */
+    .slider{
+        margin-top: 112px;
+    }
+
+    /* -------- Banner Button--------- */
+    .banner-content .our-btn {
+        font-size: 14px;
+        padding: 15px 50px;
+    }
+
+    /* -------- Team Member ----------- */
+    .team .sec-title {
+        margin-bottom: 50px;
+    }
+
+    /* --------------- Blog ------------ */
+    .blog-right .blog-title {
+        padding: 2px;
+        font-size: 12px;
+    }
+    .blog .sec-title {
+        margin-bottom: 50px;
+    }
+
+    /* ----------- Footer -------------- */
+    .widget-logo img{
+        max-width: 100%;
+    }
+    .footer .widget {
+        padding-top: 75px;
+    }
+    .footer .widget-one {
+        padding: 104px 5px;
+    }
+    .widget-social ul {
+        margin-top: 30px;
+    }
+    .widget-social ul li a {
+        padding: 5px;
+    }
+    .tweet-feed li a {
+        padding-left: 3px;
+    }
+    /* ---------- Top Arrow --------- */
+    .top-arrow{
+        right: 30px;
+        width: 40px;
+        height: 50px;
+    }
+    
+
+}
+
+/*============================================ */
+@media (min-width: 767.98px) and (max-width: 991.98px){
+    /* ======== Team Area ========== */
+    .team-content{
+        padding: 5px;
+        font-size: 12px;
+    }
+    .team-content p:nth-last-child(){
+        font-size: 10px;
+    }
+    .team-content h4{
+        font-size: 16px;
+    }
+    .social ul li a {
+        padding: 3px 8px;
+    }
+}
+/*=========================================== */
+
+@media(max-width: 900px){
+    .para1{
+        margin-top: 30px;
+    }
+    /* ---------- About ---------- */
+    .about-img img{
+        top: 20px;
+        left: 20px;
+    }
+    /* ----------- We do ---------- */
+    .we-do{
+        margin-top: 20px;
+    }
+}
+
+@media (max-width: 767.98px){
+    .top-content{
+        display: block;
+        text-align: center;
+    }
+    .top-right ul,
+    .top-left ul {  
+        display: block;
+    }
+    .top-left ul li{
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+    .top-right ul li{
+        display: inline-block;
+    }
+    .header{
+        position: static;
+    }
+    .fixed .header{
+        position: static;
+    }
+    .menu-area{
+        height: fit-content;
+    }
+    .fixed .menu-area{
+        height: fit-content;
+    }
+    /* -------- slider --------- */
+    .slider{
+        margin-top: 0;
+    }
+    .fixed .slider{
+        margin-top: 0;
+    }
+
+    .slider-content{
+        margin-top: -15px;
+    }
+    
+    /* === Slider arrow in slider */
+    .slider-arrow .left-arrow,
+    .slider-arrow .right-arrow{
+        font-size: 30px;   
+    }
+    
+    .para2{
+        padding-bottom: 28px;
+    }
+    /* Bullet button in slider */
+    .our-bullet{
+        display: none;
+    }
+    
+    /* ------------ About ---------- */
+    .about-img{
+        width: 80%;
+        height: 80%;
+    }
+    .about-img img{
+        width: 100%;
+        height: 100%;
+    }
+    .about-content{
+        margin-top: -33px;
+    }
+
+    /* ------------ We Do -------------- */
+    .do-img img{
+        margin-bottom: 0;
+        width: 100%;
+    }
+
+    /* --------- Recent Work ------------ */
+    .work ul li{
+        padding: 5px;
+        font-size: 13px;
+    }
+    .work ul li::after{
+        width: 0;
+    }
+    .work .gallary{
+        margin: 0 auto;
+        width: 80%;
+    }
+    /* -------- Banner ---------------- */
+    .big-banner h2 {
+        font-size: 25px;
+        font-weight: 500;
+    }
+    .banner-content .our-btn {
+        font-size: 12px;
+        padding: 10px 10px;
+    }
+
+    /* ----------- Team Member -------- */
+    .team{
+        padding-top: 70px;
+    }
+    .team .sec-title {
+        margin-bottom: 50px;
+    }
+    .team-member{
+        margin: 15px 0;
+        overflow: hidden;
+    }
+
+    /* ------------ Blog --------------- */
+    .blog-right .blog-title {
+        padding: 10px;
+        font-size: 14x;
+    }
+
+    /* ------------ Brand ------------- */
+    .brand {
+        padding: 30px 0;
+    }
+
+    /* --------- Footer --------------- */
+    .widget-one::after{
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 100%;
+        bottom: 0;
+        right: -4000px;
+        background: #303030;
+    }
+    .footer .widget-one {
+        padding: 50px 5px;
+    }
+    .footer .widget {
+        padding-top: 50px;
+        text-align: center;
+        width: 80%;
+        margin: auto;
+    }
+   
+
+}
+
+@media (max-width: 575.98px){
+    .slider-content h2{
+        font-size: 16px;
+    }
+    .para1{
+        font-size: 12px;
+    }
+    .para2{
+        padding-bottom: 0px;
+        font-size: 10px;
+    }
+    .slider-btn .our-btn {
+        text-transform: capitalize;
+        margin-left: 8px;
+        margin-right: 8px;
+        padding: 2px 10px;
+        font-size: 10px;
+    }
+
+    /* === Slider arrow in slider */
+    .slider-arrow .left-arrow,
+    .slider-arrow .right-arrow{
+        font-size: 20px;   
+    }   
+    /* ----------- We Do ------------- */
+    .do-img img{
+        transform: scale(0.8);
+    }
+
+    /* ---------- Team Member --------- */
+    .social ul li a {
+        padding: 10px 10px;
+    }
+    .team-content h4{
+        font-size: 18px;
+    }
+    .team-content{
+        padding: 5px;
+        font-size: 12px;
+    }
+    .team-content p:nth-last-child(){
+        font-size: 10px;
+    }
+
+    /* ------------ Brand ------------- */
+    .brand {
+        padding: 10px 0;
+    }
+    /* ---------- Top Arrow --------- */
+    .top-arrow{
+        right: 10px;
+        width: 35px;
+        height: 40px;
+    }
+   
+}
+
+@media (max-width: 459.98px){
+    .para2{
+     display: none;
+    }
+    .top-right ul li, .top-left ul li {
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+
+    /* === Slider arrow in slider */
+    .slider-arrow{
+        display: none;
+    }
+
+    /* ----------- Banner ------------ */
+    .big-banner h2 {
+        font-size: 20px;
+    }
+
+    /* -------- Team Member ---------- */
+    .team-content{
+        padding: 5px;
+        font-size: 10px;
+    }
+    .team-content h4{
+        font-size: 14px;
+    }
+    .social ul li a {
+        padding: 3px 5px;
+    }
+
+}
+
+@media (max-width: 319.98px){
+
+  .wrapper{
+      min-width: 320px;
+  }
+}
+
+@media(max-width: 320px){
+    .top-arrow{
+        width: 0;
+        height: 0;
+        font-size: 0;
+    }
+}
